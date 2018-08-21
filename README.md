@@ -1,7 +1,7 @@
 # Ionic-3-API-Integration-and-fetch-data-from-API
 Ionic 3 API Integration and fetch data from API
 
-## In Weatehr Component.ts file you can use this code fro connect api and fetch data from api
+## In Weather Component.ts file you can use this code fro connect api and fetch data from api
 ```ruby
 import { Component, Pipe } from '@angular/core';
 import { NavController } from 'ionic-angular';

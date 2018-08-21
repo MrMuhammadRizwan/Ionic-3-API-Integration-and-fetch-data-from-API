@@ -2,7 +2,7 @@
 Ionic 3 API Integration and fetch data from API
 
 ## In Weatehr Component.ts file you can use this code fro connect api and fetch data from api
-import { Component, Pipe } from '@angular/core';
+```import { Component, Pipe } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { Observable } from 'rxjs/Observable';
 import {Http} from '@angular/http';
@@ -47,3 +47,4 @@ export class WeatherPage {
   }
 
 }
+```
